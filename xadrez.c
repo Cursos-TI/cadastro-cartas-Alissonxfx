@@ -2,6 +2,6 @@
 
 int main(){
   printf("Desafio xadrez!\n");
-  printf("Novo comit\n");
+  printf("Novo commit\n");
 
 }
